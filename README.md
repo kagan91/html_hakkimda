@@ -1,1 +1,1 @@
-# html_hakkimda
+# Html tagleri kullanılarak hakkımda sayfası oluşturuldu.
